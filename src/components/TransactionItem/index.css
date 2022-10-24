@@ -1,0 +1,22 @@
+.lis {
+  border: 1px solid;
+  display: flex;
+  background-color: #ffffff;
+  justify-content: space-between;
+}
+
+.constant {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.bti {
+  width: 30px;
+  height: 30px;
+}
+.btn {
+  background: transparent;
+  border: none;
+  outline: none;
+}
